@@ -248,3 +248,205 @@ def ad_h():
         print("Trailer link")
         print("https://youtu.be/FJrpcDgC3zU")
     elif ad==4:
+        print("\nDescription:\n After a threat from the tiger Shere Khan forces him to flee the jungle, a man-cub named Mowgli embarks on a journey of self discovery with the help of panther Bagheera and free-spirited bear Baloo.\n\nCast:\nNeel Sethi\nBill Murray\nBen Kingsley\n\nReviews: 4.8/5\n\n")
+        print("Trailer link")
+        print("https://youtu.be/C4qgAaxB_pc")   
+    elif ad==5:
+        print("\THUGS OF HINDOSTAN\nDescription:\nRecruited by the East India Company, a local thug infiltrates a troop of patriotic bandits who plan to overthrow the British regime and reclaim their independence. \n\nCast:\n Amitabh Bachchan\n Aamir Khan \n Lloyd Owen \n\nReviews: 4/5\n\n")
+        print("Trailer link")
+        print("https://youtu.be/zI-Pux4uaqM")
+    
+    else:
+        print("\nEnter correct input!!")
+        ad_h()
+
+def comedy_e():
+    comedy=int(input("Please select the movie to see description: \n1. CENTRAL INTELLIGENCE\n2. HOME ALONE\n3. JOHNY ENGLISH\n4.THE INVENTION OF LYING\n5.THE HANGOVER\n"))
+    print("....................................................................................................................")
+    if comedy==1:
+        print("\nDirector:\nRawson Marshall Thurber\n\nCast:\nDwayne johnson\nKevin Hart\nDanielle Nicolet\n\nDescription:\nAfter he reconnects with an awkward pal from high school through Facebook, a mild-mannered accountant\nis lured into the world of international espionage.\n\n")
+        print("Trailer link")
+        print("https://youtu.be/MxEw3elSJ8M")       
+    elif comedy==2:
+        print("\nDirector:\nChris Columbus\n\nCast:\nMacaulay Culkin\nJoe Pesci\nDaniel Stern\n\nDescription:\nAn eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally\nleft home alone by his family during Christmas vacation.\n\n")
+        print("Trailer link")
+        print("https://youtu.be/0iNmVVlmmv8")
+    elif comedy==3:
+        print("\nDirector:\nPeter Howwit\n\nCast:\nRowan Akinson\nJohn Malkovich\nNatalie Imbruglia\n\nDescription:\nAfter a sudden attack on MI5, Johnny English, Britain's most confident, yet unintelligent spy, becomes Britain's only spy.\n\n")
+        print("Trailer link")
+        print("https://youtu.be/-Qv6p6pTz5I")
+    elif comedy==4:
+        print("\nDescription:\nA comedy set in a world where no one has ever lied, until a writer seizes the opportunity for personal gain. \n\nCast:\n Ricky Gervais \n Jennifer Garner \n Jonah Hill \n\nReviews: 4.5/5\n\n")
+        print("Trailer link")
+        print("https://youtu.be/RhRnmyBjOLs")
+    elif comedy==5:
+        print("\nDescription:\nThree buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding. \n\nCast:\n Zach Galifianakis \n Bradley Cooper\n Justin Bartha \n\nReviews: 4.7/5\n\n")
+        print("Trailer link")
+        print("https://youtu.be/tcdUhdOlz9M")      
+    else:
+        print("\nEnter correct input!!")
+        comedy_e()
+
+def comedy_h():
+    comedy=int(input("Please select the movie to see description: \n1. PHIR HERA PHERI\n2. DESI BOYZ\n3. HOUSEFULL\n4.DHAMAAL\n5.DHAMAAL\n"))
+    print("..........................................................................................................................")
+    if comedy==1:
+        print("\nDirector:\nNeeraj Vora\n\nCast:\nAkshay Kumar\nSuniel Shetty\nParesh Rawal\n\nDescription:\nBaburao, Raju and Shyam are living happily after having risen from rags to riches. Still, money brings the joy of riches\nand with it the greed to make more money. And so, with a don as an unknowing investor, Raju initiates a new game.\n\nReviews:4/5\n\n")
+        print("Trailer link")
+        print("https://youtu.be/1rJQQCZcq2s")
+    elif comedy==2:
+        print("\nDirector:\nRohit Dhawan\n\nCast:\nAkshay Kumar\nJohn Abraham\nDeepika Padukone\n\nDescription:\nTwo friends lose their jobs, then part bitterly after they get exposed as male strippers.\n\nReviews:3.9/5\n\n")
+        print("Trailer link")
+        print("https://youtu.be/wOcisXA4z4")
+    elif comedy==3:
+        print("\nDirector:\nSajid Khan\n\nCast:\nAkshay Kumar\nDeepika Padukone\nRiteish Deshmukh\n\nDescription:\nBelieving himself to be jinxed, a man attempts to find true love, but instead gets caught in a web of lies.\n\nReviews:4/5\n\n")
+        print("Trailer link")
+        print("https://youtu.be/oqPZHVekBZ0")      
+    elif comedy==4:
+        print("\nDescription:\nFour lazy slacker conmen buddies who are jobless, homeless and broke learn about the secret of a hidden treasure from a dying thief and later embark on a race against time to find the mobster's buried treasure and claim it while being pursued by a determined police inspector who is hellbent to get the treasure all by himself. \n\nCast:\n Sanjay Dutt \n Riteish Deshmukh \n Arshad Warsi \n\nReviews: 4.6/5\n\n")
+        print("Trailer link")
+        print("https://youtu.be/LZX2NAR_QlY")
+    elif comedy==5:
+         print("\nDescription:\nTwo friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them 'idiots'. \n\nCast:\n  Aamir Khan\n Madhavan\n Sharman Joshi \n kareena Kapoor\n Boman Irani \n\nReviews: 4.8/5\n\n")
+         print("Trailer link")
+         print("https://youtu.be/K0eDlFX9GMc")   
+        
+    
+    else:
+        print("\nEnter correct input!!")
+        comedy_h()
+
+def scifi_e():
+    scifi=int(input("Please select the movie to see description: \n1. THE TERMINATOR\n2. INTERSTELLAR\n3. DUNE\n4. INCEPTION\n5. THE MARTIAN\n"))
+    print(".........................................................................................................................")
+    if scifi==1:
+        print("\nDescription:\nThe Terminator is a formidable robotic assassin and soldier, designed by the\nmilitary supercomputer Skynet for infiltration and combat duty, towards the ultimate goal of exterminating\nthe Human Resistance.\n\nCast:\nArnold Schwarzenegger\nLinda Hamilton\Bill Paxton\nWilliam Wisher Jr.\n\nReviews: 4.1/5\n\n")
+        print("Trailer link:")
+        print("https://youtu.be/k64P4l2Wmeg")  
+        
+    elif scifi==2:
+        print("\nDescription:\nInterstellar is about Earth's last chance to find a habitable planet before a lack of\nresources causes the human race to go extinct. The film's protagonist is Cooper (Matthew McConaughey),\na former NASA pilot who is tasked with leading a mission through a wormhole to find a habitable planet in\nanother galaxy.\n\nCast:\nMatthew McConaughey\nJessica Chastain\nAnne Hathaway\nMatt Damon\n\nReviews: 3.7/5\n\n")
+        print("Trailer link:")
+        print("https://youtu.be/zSWdZVtXT7E")      
+    
+    elif scifi==3:
+        print("\nDescription:\nA mythic and emotionally charged hero's journey, Dune tells the story of Paul\nAtreides, a brilliant and gifted young man born into a great destiny beyond his understanding,\nwho must travel to the most dangerous planet in the universe to ensure the future of his family and his people.\n\nCast:\nTimothee Chalamet\nZendaya\nJason Momoa\nOscar Issac\n\nReviews: 3.5/5\n\n")
+        print("Trailer link:")
+        print("https://youtu.be/8g18jFHCLXk")      
+    
+    elif scifi==4:
+        print("\nDescription:\nInception centres on brooding “extractor” Dom Cobb (played by Leonardo DiCaprio)—a thief who invades targets' dreams through a chemical-induced shared dream state in order to steal valuable information\n\nCast:\nLeonardo DiCaprio\nJoseph Gordon Levitt\nTom Hrady\n\nReviews:4.6/5\n\n")
+        print("Trailer link:")
+        print("https://youtu.be/YoHD9XEInc0")  
+        
+    elif scifi==5:
+        print("\nDescription:\nAn astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive and can survive until a potential rescue\n\nCast:\nMatt Damon\nJessica Chastain\nChiwetel Ejiofor\nKate Mara\n\nReviews:4/5\n\n")
+        print("Trailer link:")
+        print("https://youtu.be/ej3ioOneTy8")  
+    
+    else:
+        print("\nEnter correct input!!")
+        scifi_e()
+
+        
+        
+def scifi_h():
+    scifi=int(input("Please select the movie to see description: \n1. MISSION MANGAL\n2. ROBOT\n3. KOI... MIL GAYA\n4. RA.ONE\n5. KRRISH 3\n"))
+    if scifi==1:
+        print("\nDescription:\nMangalyaan was India's first interplanetary mission. The indigenously-built\nspace probe has been in the Martian orbit since September 24, 2014. The mission made India the first\nAsian country, and the fourth in the world after Roscosmos, NASA, and the European \nSpace Agency, to get to the planet.\n\nCast:\nAkshay Kumar\nVidya Balan\nSonakshi Sinha\nSharman Joshi\n\nReviews: 4.1/5\n\n")
+        print("Trailer link:")
+        print("https://youtu.be/q10nfS9V090")      
+    
+    elif scifi==2:
+        print("\nDescription:\nVasigaran (Rajnikanth) builds a perfect replica of himself, a super-robot he \naffectionately dubs Chitti. Dr. Vasi has noble plans of donating Chitti to the Indian army, \nbut when Chitti suddenly develops feelings for Dr. Vasi's fiancee, Sana (Aishwarya Rai Bachchan), things get awkward\n\nCast:\nRajnikanth\nAishwarya Rai Bachchan\nSanthanam\nDanny Denzongpa\n\nReviews: 3.6/5\n\n")
+        print("Trailer link:")
+        print("https://youtu.be/RprCwSsUe5E")  
+    
+    elif scifi==3:
+        print("\nDescription:\nKoi... Mil Gaya focuses on Rohit (Hrithik Roshan), a developmentally\ndisabled man who contacts an extraterrestrial being with his late father Sanjay's (Rakesh Roshan) \ncomputer. The film followshis relationship with Nisha (Zinta), Rohit's friend, who falls in love with him.\n\nCast:\nHrithik Roshan\nPreity Zinta\nPrem Chopra\nMukesh Rishi\n\nReviews: 3.2/5\n\n")
+        print("Trailer link:")
+        print("https://youtu.be/VxDudRIMKrc")      
+    
+    elif scifi==4:
+        print("\nDescription:\nOne (also played by Khan). The former escapes from the game's virtual world and enters the real world; his aim is to kill Lucifer, the game ID of Shekhar's son and the only player to have challenged Ra. One's power. Relentlessly pursued, the family is forced to bring out G\n\nCast:\nShah Rukh Khan\nKreena Kapoor\nRajnikanth\nAmitabh Bachchan\nPriyanka Chopra\n\nReviews:2.8/5\n\n")
+        print("Trailer link:")
+        print("https://youtu.be/d9PlHc_qVKw")  
+        
+    elif scifi==5:
+        print("\nDescription:\nKrrish and his scientist father must save the world and their own family from an evil man named Kaal and his gang of mutants, led by the ruthless Kaya. After defeating the villainous Dr. Siddhant Arya and bringing his father Rohit back from the dead, Krrish continued fighting against evil and saving innocent lives\n\nCast:\nHrithik Roshan\nKangana Ranaut\nPriyanka Chopra\n\nReviews:2.4/5\n\n")
+        print("Trailer link:")
+        print("https://youtu.be/_6Ix1VF_yWM")  
+        
+    else:
+        print("\nEnter correct input!!")
+        scifi_h()
+        
+        
+def rom_e():
+    rom=int(input("Please select the movie to see description: \n1. PRIDE & PREJUDICE\n2. AFTER\n3. THE NOTEBOOK\n4. THE VOW\n5. THE LUCKY ONE\n"))
+    print(".........................................................................................................................")
+    if rom==1:
+        print("\nDescription:\nSparks fly when spirited Elizabeth Bennet meets single, rich, and proud Mr. Darcy. But\nMr. Darcy reluctantly finds himself falling in love with a woman beneath his class. Can each \novercome their own pride and prejudice?\n\nCast:\nKeira Knightley\nMathew Macfadyen\nCarey Mulligan\nRosamund Pike\n\nReviews: 4.0/5\n\n")
+        print("Trailer link:")
+        print("https://youtu.be/Ur_DIHs92NM")  
+    
+    elif rom==2:
+        print("\nDescription:\nBased on the novel by Anna Todd. Based on Anna Todd's novel, AFTER follows Tessa\n(Langford), a dedicated student, dutiful daughter, and loyal girlfriend to her high-school sweetheart,\nas she enters her first semester in college armed with grand ambitions for her future.\n\nCast:\nJosephine Langford\nAnna Todd\nSelma Blair\nHero Fiennes\n\nReviews: 3.9/5\n\n")
+        print("Trailer link:")
+        print("https://youtu.be/g99KPOpqZ4Q")     
+    
+    elif rom==3:
+        print("\nDescription:\nThe Notebook is an achingly tender story about the enduring power of love, a story of\nmiracles that will stay with you forever. Set amid the austere beauty of coastal North Carolina in 1946,\nThe Notebook begins with the story of Noah Calhoun, a rural Southerner returned home from World War II.\n\nCast:\nRyan Gosling\nRachel McAdams\nJames Garner\nSam Shepard\n\nReviews: 3.3/5\n\n")
+        print("Trailer link:")
+        print("https://youtu.be/FC6biTjEyZw")  
+        
+    elif rom==4:
+        print("\nDescription:\nInspired by a true story, The Vow is the tale of a love that refuses to be forgotten. Leo (Channing Tatum, Dear John ) is devastated when a car accident plunges his wife Paige (Rachel McAdams, The Notebook ) into a deep coma. She miraculously recovers – but the last five years of her memories have vanished\n\nCast:\nRachel McAdams\nChanning Tatum\nJessica Lange\nJoe Cobden\n\nReviews:2.4/5\n\n")
+        print("Trailer link:")
+        print("https://youtu.be/PcL24s-S6ns")  
+        
+    elif rom==5:
+        print("\nDescription:\nIt is an adaptation of Nicholas Sparks' 2008 novel of the same name. The film stars Zac Efron as Logan Thibault, a US Marine who finds a photograph of a young woman while serving in Iraq, carries it around as a good luck charm, and later tracks down the woman, with whom he begins a relationship\n\nCast:\nZac Efron\nTaylor Schilling\nJoe Chrest\n\nReviews:3.1/5\n\n")
+        print("Trailer link:")
+        print("https://youtu.be/9w8lE83oYeM")  
+        
+    else:
+        print("\nEnter correct input!!")
+        rom_e()
+        
+        
+def rom_h():
+    rom=int(input("Please select the movie to see description: \n1. RAABTA\n2. DHADAK\n3. SANAM RE\n4. GEHRAIYAAN\n5. AASHIQUI 2\n"))
+    print("...........................................................................................................................")
+    if rom==1:
+        print("\nDescription:\nRaabta is a story of Shiv and Saira, long lost lovers who have to fight the same \nhurdles that they did centuries back that drifted them apart. Shiv (Rajput) and Saira (Sanon) fall for\neach other. However, Saira experiences certain nightmares. She then comes across Zack (Sarbh) and feels\nthe same connection with him.\n\nCast:\nSushant Singh Rajput\nKriti Sanon\nRajkumar Rao\nDeepika Padukone\n\nReviews: 2.4/5\n\n")
+        print("Trailer link:")
+        print("https://youtu.be/YXjYfpqg8Z0")
+    
+    elif rom==2:
+        print("\nDescription:\nSet in Rajasthan, this love story explores how the protagonists deal with issues\nlike differences between castes and honor killings.\n\nCast:\nJhanvi Kapoor\nIshaan Khattar\nAshutosh Rana\nAnkit Bisht\n\nReviews: 2.7/5\n\n")
+        print("Trailer link:")
+        print("https://youtu.be/TIE92mUvSsw")
+        
+    elif rom==3:
+        print("\nDescription:\nA man focused on his career finds solace when he reunites with his childhood sweetheart\n\nCast:\nDivya Khosla\nYami Gautam\nUrvashi Rautela\nRishi Kapoor\n\nReviews: 2.2/5\n\n")
+        print("Trailer link:")
+        print("https://youtu.be/fvQZkpnb764")
+        
+    elif rom==4:
+        print("\nDescription:\nAlisha (Deepika Padukone), a yoga instructor, believes that her personal and professional lives are in shambles. She's having trouble finding an investor for her fitness software, and her six-year relationship with Karan, a struggling writer, has reached a stalemate\n\nCast:\nDeepika Padukone\nSiddhant Chaturvedi\nRajat Kapoor\n\nReviews:3.2/5\n\n")
+        print("Trailer link:")
+        print("https://youtu.be/Yy8SKJygKD4")
+        
+    elif rom==5:
+        print("\nDescription:\nHe meets Arohi in a bar in Goa, where she works to earn a living. Impressed by her singing, he promises her to take her to Mumbai and make her a star, where they fall in love with each other. Aashiqui 2 is a musical love story of these lovers who goes through love and hate, fame and failure in their lives\n\nCast:\nAditya Roy Kapur\nShraddha Kapoor\nShaad Randhawa\nMahesh Thakur\n\nReviews:3.2/5\n\n ")
+        print("Trailer link:")
+        print("https://youtu.be/FyXXgpPqe6w")
+        
+    else:
+        print("\nEnter correct input!!")
+        rom_h()
+
+
+start()
+movie()
